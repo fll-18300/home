@@ -1,9 +1,15 @@
 # Team 18300 Robotics 
 
-## Robot Game Rules
+## First Game Rules, Judging, and other Information
 [2023 MasterPiece Robot Game Rules](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-rgr-en.pdf)
 
+[2023 MasterPiece Challenge Updates](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-challenge-updates.pdf)
+
 [2023 MasterPiece Robot Game Scoring Tool](https://flltools.flltutorials.com/scorer)
+
+[2023 MasterPiece Judging Rubric](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-rubrics-color.pdf)
+
+[2023 MasterPiece Mission Model Build Instructions](https://www.firstlegoleague.org/season#resources)
 
 ## Task Tracking
 [Team 18300 Kanban Board](https://fllteam18300.atlassian.net/)
