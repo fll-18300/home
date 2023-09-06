@@ -11,6 +11,8 @@
 
 [2023 MasterPiece Mission Model Build Instructions](https://www.firstlegoleague.org/season#resources)
 
+[M15 - Expert Locations](https://github.com/fll-18300/home/blob/main/expert_locations.jpg)
+
 ## Task Tracking
 [Team 18300 Kanban Board](https://fllteam18300.atlassian.net/)
 
