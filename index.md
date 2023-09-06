@@ -17,6 +17,9 @@
 ## 2023 Team Code
 [Team 18300's 2023 Robot Code](https://github.com/fll-18300/fall_2023)
 
+## Meeting Slides
+[18300 Engineering Methods and Tools](https://github.com/fll-18300/home/blob/main/meeting_090623.pdf)
+
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
