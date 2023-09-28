@@ -28,3 +28,6 @@
 [Pybrics Documentation](https://pybricks.com/ev3-micropython/index.html)
 
 [Team 18300's 2022 Robot Code](https://github.com/fll-18300/fall_2022)
+
+## Team 18300's Basebot Build Instructions
+<a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/987-team-18300-s-fll-basebot" width="710" height="590">Team 18300's FLL Basebot</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
