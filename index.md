@@ -1,4 +1,7 @@
 # Team 18300 Robotics 
+<center>
+<img src="team18300_2025.jpg" width="800">
+</center>
 
 ## First Game Rules, Judging, and other Information
 [2023 MasterPiece Robot Game Rules](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-rgr-en.pdf)
