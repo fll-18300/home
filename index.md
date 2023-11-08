@@ -24,6 +24,7 @@
 
 ## Meeting Slides & Notes
 [Robot Presentation ToDo List](https://fll-18300.github.io/home/robot_todo_list.htm)
+
 [18300 Engineering Methods and Tools](https://github.com/fll-18300/home/blob/main/meeting_090623.pdf)
 
 ## Reference Information
