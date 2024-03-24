@@ -4,10 +4,6 @@ subtitle: Use the robot to measure distance
 author: Kyle - Student, Team 18300
 ---
 
-<center>
-<img src="team18300_2025.jpg" width="800">
-</center>
-
 This code can be added to the Bolton Robotics base code to measure how far the robot moves (in mm) when pushed.  The robot can be used like a tape measure!
 
 ```python
