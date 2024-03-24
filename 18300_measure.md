@@ -1,7 +1,7 @@
 ---
 title: Team 18300 Robot Tape Measure
 subtitle: Use the robot to measure distance
-author: Kyle
+author: Kyle - Student, Team 18300
 ---
 
 This code can be added to the Bolton Robotics base code to measure how far the robot moves (in mm) when pushed.  The robot can be used like a tape measure!
