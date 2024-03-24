@@ -20,6 +20,7 @@
 [Team 18300 Kanban Board](https://fllteam18300.atlassian.net/)
 
 ## 2023 Team Code
+[Team 18300's Robot Tape Measure Code](https://github.com/18300_measure/18300_measure)
 [Team 18300's 2023 Robot Code](https://github.com/fll-18300/fall_2023)
 
 ## Meeting Slides & Notes
