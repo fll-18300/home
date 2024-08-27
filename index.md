@@ -1,38 +1,39 @@
-# Team 18300 Robotics 
+# Team 18300 Robotics - Submerged 2024 
 <center>
 <img src="team18300_2025.jpg" width="800">
 </center>
 
 ## First Game Rules, Judging, and other Information
-[2023 MasterPiece Robot Game Rules](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-rgr-en.pdf)
+[2024 Submerged Robot Game Rule](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-rgr-eng.pdf)
 
-[2023 MasterPiece Challenge Updates](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-challenge-updates.pdf)
+[2024 Submerged Challenge Updates](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-updates-and-clarifications.pdf)
 
-[2023 MasterPiece Robot Game Scoring Tool](https://flltools.flltutorials.com/scorer)
+[2024 Submerged Robot Game Scoring Tool](https://eventhub.firstinspires.org/scoresheet)
 
-[2023 MasterPiece Judging Rubric](https://firstinspiresst01.blob.core.windows.net/first-in-show-masterpiece/fll-challenge/fll-challenge-masterpiece-rubrics-color.pdf)
+[2024 Submerged Judging Rubric](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-rubrics-color.pdf)
 
-[2023 MasterPiece Mission Model Build Instructions](https://www.firstlegoleague.org/season#resources)
+[2024 Submerged Mission Model Build Instructions](https://www.firstlegoleague.org/season?__hstc=212927755.dbef977658b50c7f632f87d695f2bbe3.1722951784801.1723652535897.1724766434780.5&__hssc=212927755.1.1724766434780&__hsfp=3531153208)
 
-[M15 - Expert Locations](https://github.com/fll-18300/home/blob/main/expert_locations.jpg)
+[2024 Submerged Field Setup Guide](https://docs.google.com/presentation/d/1tI0MJXJH19z141av1CC6lwUby5iERwdhnWmgEx6pxns/edit?pli=1#slide=id.g2f5cf425f3e_0_455)
+
 
 ## Task Tracking
-[Team 18300 Kanban Board](https://fllteam18300.atlassian.net/)
+[Team 18300 Kanban Board - 2024](https://fllteam18300-2024.atlassian.net/)   <--- Need to update.
 
 ## 2023 Team Code
 [Team 18300's Robot Tape Measure Code](https://fll-18300.github.io/home/18300_measure)
 
-[Team 18300's 2023 Robot Code](https://github.com/fll-18300/fall_2023)
+[Team 18300's 2024 Robot Code](https://github.com/fll-18300/fall_2024)
 
 ## Meeting Slides & Notes
-[Robot Presentation ToDo List](https://fll-18300.github.io/home/robot_todo_list.htm)
-
 [18300 Engineering Methods and Tools](https://github.com/fll-18300/home/blob/main/meeting_090623.pdf)
 
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
 
 [Pybrics Documentation](https://pybricks.com/ev3-micropython/index.html)
+
+[Team 18300's 2023 Robot Code](https://github.com/fll-18300/fall_2023)
 
 [Team 18300's 2022 Robot Code](https://github.com/fll-18300/fall_2022)
 
