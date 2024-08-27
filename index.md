@@ -18,7 +18,7 @@
 
 
 ## Task Tracking
-[Team 18300 Kanban Board - 2024](https://fllteam18300-2024.atlassian.net/)   <--- Need to update.
+[Team 18300 Kanban Board - 2024](https://team18300.atlassian.net/jira/your-work)
 
 ## 2023 Team Code
 [Team 18300's Robot Tape Measure Code](https://fll-18300.github.io/home/18300_measure)
