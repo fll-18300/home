@@ -27,7 +27,9 @@
 [Team 18300's 2024 Robot Code](https://github.com/fll-18300/fall_2024)
 
 ## Meeting Slides & Notes
-[18300 Engineering Methods and Tools](https://github.com/fll-18300/home/blob/main/meeting_090623.pdf)
+[18300 Meeting #1 Rubrics, Methods, Tools, and Sensor Failure](https://github.com/fll-18300/home/blob/main/meeting_1.pdf)
+
+[18300 Meeting #2 Gyros and tasks](https://github.com/fll-18300/home/blob/main/meeting_2.pdf)
 
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/)
