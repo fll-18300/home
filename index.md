@@ -16,6 +16,7 @@
 
 [2024 Submerged Field Setup Guide](https://docs.google.com/presentation/d/1tI0MJXJH19z141av1CC6lwUby5iERwdhnWmgEx6pxns/edit?pli=1#slide=id.g2f5cf425f3e_0_455)
 
+[2024 Submerged Map Planning Tool](https://flltools.flltutorials.com/drawplan)
 
 ## Task Tracking
 [Team 18300 Kanban Board - 2024](https://team18300.atlassian.net/jira/your-work)
