@@ -3,6 +3,11 @@
 <img src="team18300_2025.jpg" width="800">
 </center>
 
+## 2024 Schedule
+<center>
+<img src="schedule_v1.jpg" width="800">
+</center>
+
 ## First Game Rules, Judging, and other Information
 [2024 Submerged Robot Game Rule](https://firstinspires.blob.core.windows.net/fll/challenge/2024-25/fll-challenge-submerged-rgr-eng.pdf)
 
