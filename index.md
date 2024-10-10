@@ -5,7 +5,7 @@
 
 ## 2024 Schedule
 <center>
-<img src="schedule_v1.jpg" width="800">
+<img src="schedule_v2.jpg" width="800">
 </center>
 
 ## First Game Rules, Judging, and other Information
