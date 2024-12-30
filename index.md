@@ -1,11 +1,25 @@
 # Team 18300 Robotics - Submerged 2024 
 <center>
-<img src="team18300_2025.jpg" width="800">
+<img src="team18300_2026.jpg" width="800">
 </center>
 
-## 2024 Schedule
+## 2024 Spring Schedule
+  General plan is to meet on Wednesdays afterschool as part of the Bolton Robotics "Spring Training" meetings.  
+  In our Wednesday "Spring Training Meetings, 18300 will be working towards preparation for the World Festival Event:
+  - Improving the scores in the submerged robot game.  How high can they go on their point thermometer?
+  - Pit Decorations - We'll go as big as the kids want, programming LED lights (Arduino programming), shark selfie cutout, virtual reality (python, motion capture, animation), etc
+  - Practice presentation and Q&A
+  - Team Building (pictionary & core values challenges)
+
+  Outside of the Wednesday meetings we're hoping to:
+  - Field trip to [Mitre Bluetech Lab](https://www.mitre.org/news-insights/fact-sheet/bluetech-lab) in Bedford, MA 
+  - Team fun event, to give them their earned rewards from the point thermometer (need parent help to organize this)
+  - Meeting(s) in late may early June to prepare for World Festival Event.  Most likely this will be 2 Sunday evenings 6-8, but we can adjust the timing as needed.
+
+  World Fesitval Event Information:
+  [Waffle World Festival](https://www.roboticsforevery.one/first-lego-league/fll-open)
 <center>
-<img src="schedule_v2.jpg" width="800">
+<img src="schedule_waffle.jpg" width="800">  
 </center>
 
 ## First Game Rules, Judging, and other Information
