@@ -13,7 +13,7 @@
 
   Outside of the Wednesday meetings we're hoping to:
   - Field trip to [Mitre Bluetech Lab](https://www.mitre.org/news-insights/fact-sheet/bluetech-lab) in Bedford, MA 
-  - Team fun event, to give them their earned rewards from the point thermometer (need parent help to organize this)
+  - Team fun event, to give them their earned rewards from the point thermometer (need help to organize this)
   - Meeting(s) in late may early June to prepare for World Festival Event.  Most likely this will be 2 Sunday evenings 6-8, but we can adjust the timing as needed.
 
   World Fesitval Event Information:
