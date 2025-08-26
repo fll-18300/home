@@ -13,7 +13,7 @@
   - Backyard Bolton Outreach Event  (optional event) 10/18 9:45 - 2:00
   - FSS Scrimmage (Robot Only) 10/24 5:00 - 8:00 PM
   - Titan Test Drive Scrimmage (Robot Only) 11/8 8:00 - 1:00 PM
-  - Qualifier: TBD - Guessing Dec 6th 7th all day
+  - Qualifier: TBD - Guessing Dec 6th or 7th all day
   - Robonautica: December 13th all day 
 
 ## First Game Rules, Judging, and other Information
