@@ -5,7 +5,9 @@
 
 ## 2025 Fall Schedule
   Meet on Wednesdays afterschool
+  
   Extra weekly meeting - TBD (likely either Friday evenings at the school or Sunday evenings)
+  
   Competition Dates:
   - WaterFire Outrached Event (optional event) 9/27 5:30 - 9:00 
   - Backyard Bolton Outreach Event  (optional event) 10/18 9:45 - 2:00
@@ -56,7 +58,9 @@ Meeting #1:
 Basebot Selection is TBD
 
 Option #1: Bolton Robotics BaseBot
+
 <a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/4136-bolton-robotic-s-first-lego-league-basebot" width="710" height="590">Bolton Robotic's First Lego League Basebot</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
 
 Option #2: Boxbot Design #1
+
 Instructions TBD
