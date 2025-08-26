@@ -8,7 +8,7 @@
   
   Extra weekly meeting - TBD (likely either Friday evenings at the school or Sunday evenings)
   
-  Competition Dates:
+  Important Dates:
   - WaterFire Outrached Event (optional event) 9/27 5:30 - 9:00 
   - Backyard Bolton Outreach Event  (optional event) 10/18 9:45 - 2:00
   - FSS Scrimmage (Robot Only) 10/24 5:00 - 8:00 PM
