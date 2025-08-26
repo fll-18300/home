@@ -5,7 +5,7 @@
 
 ## 2025 Fall Schedule
   Meet on Wednesdays afterschool
-  Extra weekly meeting - TBD (likely either Friday evenings at the school or Sunday evenings at 173 harvard rd)
+  Extra weekly meeting - TBD (likely either Friday evenings at the school or Sunday evenings)
   Competition Dates:
   - WaterFire Outrached Event (optional event) 9/27 5:30 - 9:00 
   - Backyard Bolton Outreach Event  (optional event) 10/18 9:45 - 2:00
