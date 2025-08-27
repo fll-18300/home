@@ -44,7 +44,7 @@ General:
 Complete the team survey (link in slack)
 
 Project:
-Do a little research and provide answer the following questions:
+Do a little research and briefly answer (1-3 sentances should do it!) the following questions:
 
   - What is an archaeologist, and how is their job different from a paleontologist?
 
