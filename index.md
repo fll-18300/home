@@ -38,24 +38,7 @@
 [Team 18300's 2025 Spike Prime Robot Code](https://github.com/fll-18300/fall_2025)
 
 ## Meeting Notes
-Homework For Week #1
-
-General:
-Complete the team survey (link in slack)
-
-Project:
-Do a little research and briefly answer (1-3 sentances should do it!) the following questions:
-
-  - What is an archaeologist, and how is their job different from a paleontologist?
-
-  - Describe one unusual, interesting, or unexpected place archeologist work?
-
-  - Describe one challenge archaeologists face when they’re working?
-
-  - Describe one interesting tool archaeologists use why it is important?
-
-Robot:
-  - Review the [2025 Unearthed Robot Game Rules](https://firstinspires.blob.core.windows.net/fll/challenge/2025-26/fll-challenge-unearthed-rgr.pdf)  Think about strategies for how the team solves missions.
+[Week #1: 8/28/25](https//fll-18300.github.io/home/weekly_updates/week_828.md)
 
 ## Reference Information
 [Bolton Robotics Spring Training Website](https://fssfll.github.io/fssfll/spike/index.html)
