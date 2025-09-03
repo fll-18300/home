@@ -1,5 +1,5 @@
 # Basebot Expert
-### Thank you for being our basebot expet!  Get us ready to write programs by downloading and updating the base robot python code
+### Thank you for being our basebot expert!  Get us ready to write programs by downloading and updating the base robot python code
 - It is no fun being stuck and not knowing what to do next.  Your coaches want to help you and provide expert help anytime you need it. Ask questions if you get stuck when following the directions below.    
 - Watch the video in [this link click here](https://fssfll.github.io/fssfll/spike/lessons/spike_basecode/spike_basecode/) and read the page.  Pay attention to the bolton_robotics_robot.py description on the page as this is the file we need to change.
   - As shown in the video, [click here to download the BaseCode](https://fssfll.github.io/fssfll/spike/lessons/spike_basecode/spike_basecode-release_1.zip)       
