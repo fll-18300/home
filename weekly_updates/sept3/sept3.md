@@ -3,17 +3,15 @@
 ### Review At Home Work
  - Round table discussion sharing our findings
  - Share survey results
+   - 4 responses were recorded the survey
+   - Responses were anonymous
+   - All response were >= 5/10
+   - All responses had at least one 8/10 or higher
 
-### Pick a team name
-Discuss how team 18300 makes team decisions; everyone gets to vote!
-Here are some chatgpt suggestions:
-   - Kidettes Unearthed
-   - The Relic Kidettes
-   - Raiders of the Lost Kidettes
-   - Kidettes Can Dig It
-   - Dig-It-Kidettes
-   - Kidettes of the Lost Ark
-   - Bone-a-Fide Kidettes
+### FLL Competition Scoring
+In an FLL competition we are judged equally in four separate categories.  We will spend some time working in each category:
+<img width="815" height="857" alt="image" src="https://github.com/user-attachments/assets/35d1f54e-d16e-4bcf-b9fb-74d43fed4e8e" />
+
 
 ### Prepare for our Interview with an archeologist!
 Interviewing an expert is a key part of the FLL project.  We need to understand what an archeologist does, the tools they use, and what makes their job challenging, tedious, or difficult.  As an FLL team, our task is to work with an expert to identify a challenge and try to solve that challenge.  
@@ -39,3 +37,14 @@ Become an expert by completing one of the assignments below.  If you get stuck, 
 - [Github Expert](github.html) - Research Github and answer a few questions.  Then upload files to our team Github account
 - [Jira Expert](jira.html) - Research JIRA and answer a few questions.  Then create a task in our team JIRA account
 - [Lego CAD Expert](lego_cad.html) - Research CAD and answer a few questions.  Then create a small lego CAD creation.
+
+### Pick a team name
+Discuss how team 18300 makes team decisions; everyone gets to vote!
+Here are some chatgpt suggestions:
+   - Kidettes Unearthed
+   - The Relic Kidettes
+   - Raiders of the Lost Kidettes
+   - Kidettes Can Dig It
+   - Dig-It-Kidettes
+   - Kidettes of the Lost Ark
+   - Bone-a-Fide Kidettes
