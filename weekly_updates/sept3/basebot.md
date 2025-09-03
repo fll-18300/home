@@ -1,0 +1,20 @@
+# Basebot Expert
+### Get us ready to write programs by downloading and updating the base robot python code
+- Watch the video in [this link click here](https://fssfll.github.io/fssfll/spike/lessons/spike_basecode/spike_basecode/) and read the page.  Pay attention to the bolton_robotics_robot.py description on the page as this is the file we need to change.
+  - As shown in the video, [click here to download the BaseCode](https://fssfll.github.io/fssfll/spike/lessons/spike_basecode/spike_basecode-release_1.zip)       
+  - Then start the Pybricks Software [https://code.pybricks.com/](https://code.pybricks.com/)
+  - Import the spike_basecode-release_1.zip you previously downloaded
+  - Determine the wiring of your basebot.  Make a simple top view drawing showing the motors and any sensors.
+     - Label the motors:
+       - "LDM" Left Drive Motor
+       - "RDM" Right Drive Motor
+       - "RAM" Right Attachment Motor
+       - "LAM" Left Attachment Motor
+- Next watch the video in [this link click here](https://fssfll.github.io/fssfll/spike/lessons/spike_customizing/spike_customizing/)
+     - Follow the instructions and update:
+       - PORT_MAPPING
+       - WHEEL_DIAMETER
+       - AXEL_TRACK
+       - DISPLAY_ORIENTATION
+- Use the test programs to see if your robot is working correctly
+- Update basebot build instructions to match basebot (Kyle may need to do this)
