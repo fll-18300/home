@@ -61,9 +61,15 @@ Option #1: Spike Boxbot <BR>
 
   <IMG SRC="https://github.com/fll-18300/basebot_build_instructions/blob/main/18300_bot_v1.jpg" width="300">
   
-  <BR>
+  <BR><BR>
   
   <A HREF="https://github.com/fll-18300/basebot_build_instructions/blob/main/18300_bot_v1p0.pdf">Build Instructions</A>
+
+  <BR><BR>
+  
+  <a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/6216-team-18300-fll-bot-v1-0" width="710" height="590">Team 18300 FLL Bot V1.0</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
+
+  <BR><BR>
   
 </CENTER>
 
