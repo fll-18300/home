@@ -55,11 +55,18 @@
 
 ## Team 18300's Basebot Build Instructions
 Basebot Selection is TBD
+<CENTER>
+  
+Option #1: Spike Boxbot <BR>
 
-Option #1: Bolton Robotics BaseBot
+  <IMG SRC="https://github.com/fll-18300/basebot_build_instructions/blob/main/18300_bot_v1.jpg" width="300">
+  
+  <BR>
+  
+  <A HREF="https://github.com/fll-18300/basebot_build_instructions/blob/main/18300_bot_v1p0.pdf">Build Instructions</A>
+  
+</CENTER>
+
+Option #2: Bolton Robotics BaseBot
 
 <a class="buildin3d-instructions" href="https://platform.buildin3d.com/instructions/4136-bolton-robotic-s-first-lego-league-basebot" width="710" height="590">Bolton Robotic's First Lego League Basebot</a><script async src="https://platform.buildin3d.com/embed_widget.js"></script>
-
-Option #2: Boxbot Design #1
-
-Instructions TBD
