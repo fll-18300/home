@@ -59,7 +59,7 @@ Basebot Selection is TBD
   
 Option #1: Spike Boxbot <BR>
 
-  <IMG SRC="https://github.com/fll-18300/basebot_build_instructions/blob/main/18300_bot_v1.jpg" width="300">
+  <IMG SRC="18300_bot_v1.jpg" width="300">
   
   <BR><BR>
   
