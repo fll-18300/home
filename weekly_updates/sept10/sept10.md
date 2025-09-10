@@ -15,11 +15,11 @@ In an FLL competition we are judged equally in four separate categories.  We wil
 
 ### Team Experts
 Become an expert by completing one of the assignments below.  If you get stuck, your coaches are experts and want to help - just ask!  Don't worry if the expert you are researching is not your favorite.  This is a small but important part of what we need to work on as a team as we prepare for competition.  We'll spend most of our time working on building and programming lego robots and working on our project.
-- [Basebot Expert](basebot.html) - Research and help the team setup the base code and updated the build instructions for the robot.
-- [Engineering Design Process Expert](engineering.html) - Research the engineering design process and answer a few questions to help us understand how to brainstorm, prototype, and fix our robot
-- [Github Expert](github.html) - Research Github and answer a few questions.  Then upload files to our team Github account
-- [Jira Expert](jira.html) - Research JIRA and answer a few questions.  Then create a task in our team JIRA account
-- [Lego CAD Expert](lego_cad.html) - Research CAD and answer a few questions.  Then create a small lego CAD creation.
+- [Basebot Expert](../sept3/basebot.html) - Research and help the team setup the base code and updated the build instructions for the robot.
+- [Engineering Design Process Expert](../sept3/engineering.html) - Research the engineering design process and answer a few questions to help us understand how to brainstorm, prototype, and fix our robot
+- [Github Expert](../sept3/github.html) - Research Github and answer a few questions.  Then upload files to our team Github account
+- [Jira Expert](../sept3/jira.html) - Research JIRA and answer a few questions.  Then create a task in our team JIRA account
+- [Lego CAD Expert](../sept3/lego_cad.html) - Research CAD and answer a few questions.  Then create a small lego CAD creation.
 
 ## Project 
 
