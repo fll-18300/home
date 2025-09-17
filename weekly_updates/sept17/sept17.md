@@ -23,8 +23,11 @@ Small Scale:
 ## Novel Aspects 
 So purely copying the idea of filtering water wouldn’t be very novel in the context of FLL research/innovation. Judges usually want either:
 - A new application
-- A clever twist like Energy-efficient / human-powered
-- A low-cost / accessible version that solves a problem differently like Bio-inspired filtration
+- A clever twist
+- A low-cost / accessible version that solves a problem differently
+
+## Possible Elevator Pitch
+Archaeologists often struggle with murky water when exploring underwater dig sites, which slows research and can damage fragile artifacts. Our project creates a filtration system which is unique because _____________________, it clears water and _____________________.  This approach is good because ___________________________________.
 
 # Automated Dig Site Tracker
 ## Existing Solutions
@@ -45,7 +48,7 @@ AR Replay
 - After the dig, you can hold up a tablet and see where the objects were buried, as if they re-appeared in the ground.
 
 Low-Cost Kit
-- Instead of super-expensive pro tools, our setup uses webcams, a Raspberry Pi, and simple tags—something a school team could actually build.
+- Instead of super-expensive pro tools, our setup uses webcams and simple tags
 
 ## Possible Elevator Pitch
-- Project roject is a low-cost system to record an excavation in 3D. A stereo camera above the dig makes a 3D time-lapse, so you can replay the dig as it happened. When an artifact is scanned with a barcode or RFID tag, the system automatically logs its exact spot. You can even use 3D videos afterward to see the artifacts appear back in the ground.
+- Project roject is a low-cost system to record an excavation in 3D. A stereo camera above the dig makes a 3D time-lapse, so you can replay the dig as it happened. When an artifact is scanned with a barcode tag, the system automatically logs its exact spot. You can even use 3D videos afterward to see the artifacts appear back in the ground.
