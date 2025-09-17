@@ -39,7 +39,7 @@
 
 ## Meeting Notes
 
-[Week #3: 9/9/25](https://fll-18300.github.io/home/weekly_updates/sept17/sept17.html)
+[Week #4: 9/17/25](https://fll-18300.github.io/home/weekly_updates/sept17/sept17.html)
 
 
 [Week #3: 9/9/25](https://fll-18300.github.io/home/weekly_updates/sept10/sept10.html)
