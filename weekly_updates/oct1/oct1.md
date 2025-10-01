@@ -7,6 +7,7 @@
 
 ## Project Research
 ### The Brain of your Project - Raspberry Pi (RPI)
+[Learn about Raspberry Pi - Video](https://www.youtube.com/watch?v=eZ74x6dVYes)
 - What is a Raspberry Pi?
 - How will you use it in your project?
 - What are "GPIO pins" how can you use them to connect to a button?
@@ -29,4 +30,5 @@
 [Robot Using April Tag](https://www.youtube.com/shorts/bLNFs9IoPPM)
 ...Need to tell the Raspberry Pi where to look in your pictures
 - What is an April Tag?
+- Can an computer determine how far away an April Tag is (depth)?
 - How can you use an April tag in your project?
