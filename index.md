@@ -38,6 +38,7 @@
 [Team 18300's 2025 Spike Prime Robot Code](https://github.com/fll-18300/fall_2025)
 
 ## Meeting Notes
+[Week #6: 10/1/25](https://fll-18300.github.io/home/weekly_updates/oct1/oct1.md)
 
 [Week #4: 9/17/25](https://fll-18300.github.io/home/weekly_updates/sept17/sept17.html)
 
