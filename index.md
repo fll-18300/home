@@ -1,6 +1,6 @@
 # Team 18300 Robotics - Unearthed 2025
 <center>
-<img src="team18300_2026.jpg" width="800">
+<img src="team18300_unearthed.jpg" width="800">
 </center>
 
 ## 2025 Fall Schedule
